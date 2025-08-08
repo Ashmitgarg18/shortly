@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* sweet little scrollbar + selection polish */
+::selection { background: rgba(99, 91, 255, 0.2); }
+.dark ::selection { background: rgba(99, 91, 255, 0.35); }
