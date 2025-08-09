@@ -1,2 +1,2 @@
 app:
-  base-domain: http://localhost:8080/api/
+  base-domain: https://shortly-ryn4.onrender.com/api/
